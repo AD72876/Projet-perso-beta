@@ -10,7 +10,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 - [Voir question 1 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/polynome_binaire1.c)
 - [Voir question 2 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/polynome_binaire2.c)
 - [Voir question 3 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/polynome_binaire3.c)
-- [Voir question 4 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/polynome_operation.c)
+
 
 ### **TP Nombre de Gauss**
 - [Voir question 1 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/gauss_1.c)
@@ -30,7 +30,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 ## Programme en Sage/Python
 
 ### **TP sur les Décodages par Liste (r, L)**
-- [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/algo_arithm2.ipynb)
+- [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/DM_algorithmique_arithm2.ipynb.ipynb)
 
 ### **Tentative d'Attaque sur la Version du Cryptosystème McElice**
 - [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/attaque_sidelnikov_codes.ipynb)
