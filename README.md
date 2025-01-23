@@ -36,7 +36,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 - [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/attaque_sidelnikov_codes.ipynb)
 
 ### **Implémentation des Fonctions de FHE (Fully Homomorphic Encryption)**
-- [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/recypt_cout.ipynb)
+- [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/recrypt_cout.ipynb)
 
 ### **TP de Codes Algébriques sur les Codes de Reed-Solomon**
 - [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/Codes_Reed_Solomon.ipynb)
