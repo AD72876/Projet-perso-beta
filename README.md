@@ -60,7 +60,14 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 ---
 
 ## À propos
-
 [Voir mon repository](https://github.com/AD72876)
+
+Cours que j'ai suivi qui sont disponible en ligne :
+
+-[Voir cours de cryptographie à clé publique](https://www.lvzl.fr/teaching/2023-24/cp.html)
+-[Voir cours d'arithmétique algorithmique](https://www.lvzl.fr/teaching/2024-25/aa.html)
+-[Voir cours d'interaction crypto](https://www.math.univ-paris13.fr/~borello/interactionscodescrypto/20242025/interactioncodescrypto.pdf)
+-[Voir cours de Codes algebriques](https://www.lvzl.fr/teaching/2023-24/ca.html)
+
 
 Ces projets reflètent la diversité des techniques et algorithmes utilisés dans le cadre des cours de cryptographie. Ils incluent des implémentations en langage C et en Python/SageMath, ainsi que des travaux pratiques en cryptographie symétrique, cryptographie à clé publique, théorie de l'information et plus encore.
