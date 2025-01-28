@@ -2,11 +2,11 @@
 
 # Projets réalisés lors de mon Master en Cryptographie
 
-Cette page présente divers projets réalisés dans le cadre de mon Master en Cryptographie, avec des implémentations de fonctions utiles en cryptographie et en codes.
+Cette page présente divers projets réalisés dans le cadre de mon Master en Cryptographie, avec des implémentations de fonctions utiles en cryptographie et en codes. Je tiens à préciser que tous les projets ci-dessous sont le fruit de mon travail et ne sont pas des corrigés.
 
 ## Programme en C
 
-### **TP Polynôme Binaire** ([Voir pdf associé](./Tp_poly_bin1.pdf))([Voir pdf associé](./Tp_poly_bin2.pdf)
+### **TP Polynôme Binaire** ([Voir pdf associé](./TP_poly_bin1.pdf))([Voir pdf associé](./TP_poly_bin2.pdf)
 
 - [Voir question 1 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/polynome_binaire1.c)
 - [Voir question 2 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/polynome_binaire2.c)
@@ -48,7 +48,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 ### **TP de Cryptographie à Clé Publique sur Ecdsa**
 - [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/Ecdsa2.ipynb)
 
-### **TP Noté de Théorie de l'Information**
+### **TP de Théorie de l'Information**
 - [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/tp-compression2.ipynb)
 
 ### **TP Preuve Formelles de Sécurité**
