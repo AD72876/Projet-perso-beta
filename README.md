@@ -6,14 +6,14 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 
 ## Programme en C
 
-### **TP Polynôme Binaire** ([Voir pdf associé](./TP_poly_bin1.pdf))([Voir pdf associé](./TP_poly_bin2.pdf)
+### **TP Polynôme Binaire** ([Voir pdf associé](./TP_poly_bin1.pdf))([Voir pdf associé](./TP_poly_bin2.pdf))
 
 - [Voir question 1 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/polynome_binaire1.c)
 - [Voir question 2 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/polynome_binaire2.c)
 - [Voir question 3 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/polynome_binaire3.c)
 
 
-### **TP Nombre de Gauss**
+### **TP Nombre de Gauss**([Voir pdf associé](./TP_gauss.pdf))
 - [Voir question 1 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/gauss_1.c)
 - [Voir question 2 ici](https://github.com/AD72876/Projet-perso-beta/blob/main/gauss_2.c)
 
