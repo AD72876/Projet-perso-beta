@@ -24,7 +24,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 - [Voir TP ici](https://github.com/AD72876/Projet-perso-beta/blob/main/tp2fourrier.c)
 
 ### **Implémentation de la Forme Algébrique Normale (AFN)**
-- [Voir fonction ici](https://github.com/AD72876/Projet-perso-beta/blob/main/AFN.c),[Voir pdf associé](https://github.com/AD72876/Projet-perso-beta/fonct_booleenes.pdf)
+- [Voir fonction ici](https://github.com/AD72876/Projet-perso-beta/blob/main/AFN.c),[Voir pdf associé](./fonct_booleenes.pdf)
 
 ---
 
