@@ -56,7 +56,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 - [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/DevoirPFS.ipynb)
 
 ### **Implémentation d'Additions, Soustractions et Divisions Scolaires et Binaires**
-- [Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets/raw/main/algo_arithm1.ipynb)
+- [Voir mon notebook ici](https://nbviewer.org/github/AD72876/amine-projets/raw/main/DM1_algo_arithmetique1.ipynb)
 
 ---
 
