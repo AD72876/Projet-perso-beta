@@ -34,7 +34,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 - [Voir mon notebook ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/DM_algorithmique_arithm2.ipynb)
 
 ### **Tentative d'Attaque sur la Version du Cryptosystème McElice** ([Voir cours d'interaction crypto page 14 à 15 ](https://www.math.univ-paris13.fr/~borello/interactionscodescrypto/20242025/interactioncodescrypto.pdf))
-[![Open In NBViewer](https://img.shields.io/badge/Open%20in-NBViewer-orange)](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/copie_attaque_sidelnikov_codes.ipynb)
+[![Open In NBViewer](https://img.shields.io/badge/Open%20in-NBViewer-orange)](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/copie_attaque_sidelnikov.ipynb)
 
 
 ### **Implémentation des Fonctions de FHE (Fully Homomorphic Encryption)**
