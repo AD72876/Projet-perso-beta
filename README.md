@@ -34,7 +34,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 ### **Exercice reccurence dans un texte**
 - [Voir exercice ici](https://github.com/AD72876/Projet-perso-beta/edit/main/tableau_contigu.rs)
   
-### **Exercice reccurence dans un texte**
+### **Exercice récurrence dans un texte**
 - [Voir exercice ici](https://github.com/AD72876/Projet-perso-beta/edit/main/recurrence_texte.rs)
 
 ### **Exercice voyelles**
