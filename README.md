@@ -33,6 +33,9 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 ### ** Exercice palyndrome**
 - [Voir exercice ici](https://github.com/AD72876/Projet-perso-beta/edit/main/palyndrome.rs)
 
+### ** Exercice voyelles**
+- [Voir exercice ici](https://github.com/AD72876/Projet-perso-beta/edit/main/voyelles.rs)
+
 ## Programme en Sage/Python
 
 ### **TP sur les Décodages par Liste (r, L)**
