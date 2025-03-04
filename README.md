@@ -31,7 +31,7 @@ Cette page présente divers projets réalisés dans le cadre de mon Master en Cr
 ## Programme en Rust (projet personnel)
 
 ### ** Exercice palyndrome**
-- [Voir exercice ici](https://nbviewer.org/github/AD72876/Projet-perso-beta/raw/main/DM_algorithmique_arithm2.ipynb)
+- [Voir exercice ici](https://github.com/AD72876/Projet-perso-beta/edit/main/palyndrome.rs)
 
 ## Programme en Sage/Python
 
