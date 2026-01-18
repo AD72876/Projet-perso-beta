@@ -1,4 +1,22 @@
-# Mes projet perso
+# Mon projet perso de Developpeur web full stack junior
+
+Message Board — Flask / HTML / CSS
+
+Application web permettant de poster, afficher et supprimer des messages
+
+Backend Flask avec routes HTTP et validation des formulaires
+
+Persistance des données via fichier JSON
+
+Gestion des erreurs utilisateur (flash messages)
+
+Frontend structuré avec HTML sémantique et CSS responsive
+
+Code versionné sur GitHub
+
+GitHub : [Voir projet ici](https://github.com/TON_PSEUDO/message-board)
+
+Simple, clair, professionnel
 
 # Projets réalisés lors de mon Master en Cryptographie
 
